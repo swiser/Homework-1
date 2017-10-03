@@ -25,11 +25,11 @@ def SinglePrecisionEps():
     return x_bar
 ```
 ## Examples
-#### ··1. Prompt
+#### Prompt
 ```python
 print SinglePrecisionEps()
 ```
-### ··1. Output
+#### Output
 ```
 1.19209e-07
 ```
