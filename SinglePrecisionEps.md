@@ -2,7 +2,7 @@
 
 ##Last Mod Date
 September 11, 2017
-##Author
+##Autho
 Skyler Wiser
 ##Written For
 Python 2.7.13
