@@ -14,7 +14,7 @@ None
 Machine epsilon
 ### Modules Used
 * numpy as np
-## Code
+### Code
 ```python
 def SinglePrecisionEps():
     x_bar=np.float32(1.0)
@@ -24,7 +24,7 @@ def SinglePrecisionEps():
         n+=1
     return x_bar
 ```
-## Examples
+### Examples
 #### Prompt
 ```python
 print SinglePrecisionEps()
