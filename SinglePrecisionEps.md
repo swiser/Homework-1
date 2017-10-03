@@ -13,7 +13,7 @@ None
 ### Outputs
 Machine epsilon
 ### Modules Used
-..*numpy as np
+* numpy as np
 ## Code
 ```python
 def SinglePrecisionEps():
