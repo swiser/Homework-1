@@ -3,7 +3,7 @@
 ### Last Mod Date
 September 11, 2017
 ### Author
-    Skyler Wiser
+Skyler Wiser
 ### Written For
 Python 2.7.13
 ### Description
@@ -13,7 +13,7 @@ None
 ### Outputs
 Machine epsilon
 ### Modules Used
-numpy as np
+..*numpy as np
 ## Code
 ```python
 def SinglePrecisionEps():
@@ -25,11 +25,11 @@ def SinglePrecisionEps():
     return x_bar
 ```
 ## Examples
-### Prompt
+### ..1. Prompt
 ```python
 print SinglePrecisionEps()
 ```
-### Output
+### ..1. Output
 ```
 1.19209e-07
 ```
