@@ -1,21 +1,21 @@
-#Function Name: SinglePrecisionEps()
+# Function Name: SinglePrecisionEps()
 
-##Last Mod Date
+## Last Mod Date
 September 11, 2017
-##Autho
+## Author
 Skyler Wiser
-##Written For
+## Written For
 Python 2.7.13
-##Description
+## Description
 Calculates machine epsilon for single precision floating point variable.
-##Inputs
+## Inputs
 None
-##Outputs
+## Outputs
 Machine epsilon
-##Modules Used
+## Modules Used
 numpy as np
-##Code
-'''python
+## Code
+```python
 def SinglePrecisionEps():
     x_bar=np.float32(1.0)
     n=0
@@ -23,14 +23,14 @@ def SinglePrecisionEps():
         x_bar=x_bar/np.float32(2.0)
         n+=1
     return x_bar
-'''
-##Examples
-###Prompt
-'''python
+```
+## Examples
+### Prompt
+```python
 print SinglePrecisionEps()
-'''
-###Output
-'''
+```
+### Output
+```
 1.19209e-07
-'''
+```
 
