@@ -9,9 +9,13 @@ Python 2.7.13
 ### Description
 Calculates the 2-Norm of a vector.
 ### Inputs
+
 * vector: A list of numbers
+
 ### Outputs
+
 * 2-Norm
+
 ### Modules Used
 None
 ### Code
