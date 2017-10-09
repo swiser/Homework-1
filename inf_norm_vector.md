@@ -9,9 +9,13 @@ Python 2.7.13
 ### Description
 Calculates the ∞-Norm of a vector.
 ### Inputs
+
 * vector: A list of numbers
+
 ### Outputs
+
 * ∞-Norm
+
 ### Modules Used
 None
 ### Code
