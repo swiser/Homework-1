@@ -16,10 +16,13 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 4|[one_norm_matrix()](https://swiser.github.io/MATH4610/one_norm_matrix)|Computes the 1-Norm of a matrix
 5|[inf_norm_matrix()](https://swiser.github.io/MATH4610/inf_norm_matrix)|Computes the ∞-Norm of a matrix
 
-6|[vector_error_one()](https://swiser.github.io/MATH4610/vector_error_one)|Computes the vector error \|\|x-y\|\|~1
-7|[vector_error_one()](https://swiser.github.io/MATH4610/vector_error_two)|Computes the vector error \|\|x-y\|\|~2
-8|[vector_error_one()](https://swiser.github.io/MATH4610/vector_error_inf)|Computes the vector error \|\|x-y\|\|~∞
+6|[vector_error_one()](https://swiser.github.io/MATH4610/vector_error_one)|Computes the vector error 
+7|[vector_error_one()](https://swiser.github.io/MATH4610/vector_error_two)|Computes the vector error 
+8|[vector_error_one()](https://swiser.github.io/MATH4610/vector_error_inf)|Computes the vector error \|\|x-y\|\|
 
+
+\|\|x-y\|\|~2
+\|\|x-y\|\|~∞
 
 **Bold** and _Italic_ and `Code` text
 
