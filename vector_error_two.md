@@ -1,13 +1,13 @@
 # Function Name: vector_error_two()
 
 ### Last Mod Date
-October 5, 20179
+October 5, 2017
 ### Author
 Skyler Wiser
 ### Written For
 Python 2.7.13
 ### Description
-Calculates the error \|\|X-Y\|\| <sub>2</sub> between two vectors, X and Y~1.
+Calculates the error \|\|X-Y\|\| <sub>2</sub> between two vectors, X and Y~1~.
 ### Inputs
 
 * vector_X: a list of numbers
