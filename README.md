@@ -1,7 +1,7 @@
 ## MATH 4610 Page
 ### Skyler Wiser
 
-This webpage contains the functions written for the MATH 4610 class. They are seperated by which homework they were assigned to. A full list of functions can be found here(link pending).
+This webpage contains the functions written for the MATH 4610 class. They are seperated by which homework they were assigned to. A full list of functions can be found here(link pending).a
 
 #### Homework 1
 #### Homework 2
