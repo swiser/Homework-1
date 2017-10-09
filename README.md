@@ -1,7 +1,7 @@
 ## MATH 4610 Page
 ### Skyler Wiser
 
-This webpage contains the functions written for the MATH 4610 class. They are seperated by which homework they were assigned to. A full list of functions can be found here(link pending).b
+This webpage contains the functions written for the MATH 4610 class. They are seperated by which homework they were assigned to. A full list of functions can be found here(link pending).
 
 #### Homework 1
 #### Homework 2
@@ -19,24 +19,10 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 | 6 | [vector_error_one()](https://swiser.github.io/MATH4610/vector_error_one) | Computes the vector error \|\|x-y\|\|<sub><sub>1</sub></sub> |
 | 7 | [vector_error_two()](https://swiser.github.io/MATH4610/vector_error_two) | Computes the vector error \|\|x-y\|\|<sub><sub>2</sub></sub> |
 | 8 | [vector_error_inf()](https://swiser.github.io/MATH4610/vector_error_inf) | Computes the vector error \|\|x-y\|\|<sub><sub>∞</sub></sub> |
+| 9 | [matrix_add()](https://swiser.github.io/MATH4610/matrix_add) | Adds two matrices together |
+| 10 | [matrix_subtract()](https://swiser.github.io/MATH4610/matrix_subtract) | Subtracts a matrix from another matrix  |
+| 11 | [matrix_scaled()](https://swiser.github.io/MATH4610/matrix_scaled) | Multiplies a matrix by a scalar |
+| 12 | [vector_dot()](https://swiser.github.io/MATH4610/vector_dot) | Evaluates the dot product between two vectors |
+| 13 | [matrix_vector_product()](https://swiser.github.io/MATH4610/matrix_vector_product) | Multiplies a matrix and a vector together |
+| 14 | [matrix_matrix_product()](https://swiser.github.io/MATH4610/matrix_matrix_product) | Multiplies two matrices together |
 
-
-
-
-
-
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-[SinglePrecisionEps](https://swiser.github.io/MATH4610/SinglePrecisionEps)
