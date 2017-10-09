@@ -1,26 +1,18 @@
-## Welcome to GitHub Pages
-# Welcome to GitHub Pages
+## MATH 4610 Page
+### Skyler Wiser
 
-You can use the [editor on GitHub](https://github.com/swiser/Homework-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This webpage contains the functions written for the MATH 4610 class. They are seperated by which homework they were assigned to. A full list of functions can be found here(link pending).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Homework 1
+#### Homework 2
+#### Homework 3
+#### Homework 4
+#### Homework 5
+#|Function Name|Description
+---|---|---
+1|one_norm_vector()|Computes the 1-Norm of a vector
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
