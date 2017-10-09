@@ -9,9 +9,11 @@ Python 2.7.13
 ### Description
 Calculates the 1-Norm of a vector.
 ### Inputs
- * vector: A list of numbers
+* vector: a list of numbers
+<!-- -->
 ### Outputs
- * 1-Norm
+* 1-Norm
+<!-- -->
 ### Modules Used
 None
 ### Code
@@ -29,4 +31,4 @@ print 'one norm: ', one_norm_vector(vector)
 ```
 one norm:  10
 ```
-test3
+Final test
