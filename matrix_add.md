@@ -15,7 +15,7 @@ Adds two matrices together.
 
 ### Outputs
 
-* answer: a matrix of numbers
+* answer: a matrix of numbers, X+Y
 
 ### Modules Used
 None
