@@ -48,4 +48,3 @@ print 'one norm: ', one_norm_vector(vector)
 ```
 one norm:  10
 ```
-Final test 1
