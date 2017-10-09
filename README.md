@@ -16,9 +16,9 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 | 3 | [inf_norm_vector()](https://swiser.github.io/MATH4610/inf_norm_vector) | Computes the ∞-Norm of a vector |
 | 4 | [one_norm_matrix()](https://swiser.github.io/MATH4610/one_norm_matrix) | Computes the 1-Norm of a matrix |
 | 5 | [inf_norm_matrix()](https://swiser.github.io/MATH4610/inf_norm_matrix) | Computes the ∞-Norm of a matrix |
-| 6 | [vector_error_one()](https://swiser.github.io/MATH4610/vector_error_one) | Computes the vector error \|\|x-y\|\|<sub>1</sub> |
-| 7 | [vector_error_two()](https://swiser.github.io/MATH4610/vector_error_two) | Computes the vector error \|\|x-y\|\|<sub>2</sub> |
-| 8 | [vector_error_inf()](https://swiser.github.io/MATH4610/vector_error_inf) | Computes the vector error \|\|x-y\|\|<sub>∞</sub> |
+| 6 | [vector_error_one()](https://swiser.github.io/MATH4610/vector_error_one) | Computes the vector error \|\|x-y\|\|<sub><sub>1</sub></sub> |
+| 7 | [vector_error_two()](https://swiser.github.io/MATH4610/vector_error_two) | Computes the vector error \|\|x-y\|\|<sub><sub>2</sub></sub> |
+| 8 | [vector_error_inf()](https://swiser.github.io/MATH4610/vector_error_inf) | Computes the vector error \|\|x-y\|\|<sub><sub>∞</sub></sub> |
 
 
 
