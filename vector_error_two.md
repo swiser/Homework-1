@@ -15,7 +15,7 @@ Calculates the error \|\|X-Y\|\|<sub><sub>2</sub></sub> between two vectors, X a
 
 ### Outputs
 
-* \|\|X-Y\|\|<sub>2</sub> error
+* \|\|X-Y\|\|<sub><sub>2</sub></sub> error
 
 ### Modules Used
 None
