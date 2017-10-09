@@ -7,7 +7,7 @@ Skyler Wiser
 ### Written For
 Python 2.7.13
 ### Description
-Calculates the error \|\|X-Y\|\|<sub>1</sub> between two vectors, X and Y.
+Calculates the error \|\|X-Y\|\|<sub><sub>1</sub></sub> between two vectors, X and Y.
 ### Inputs
 
 * vector_X: a list of numbers
@@ -15,7 +15,7 @@ Calculates the error \|\|X-Y\|\|<sub>1</sub> between two vectors, X and Y.
 
 ### Outputs
 
-* \|\|X-Y\|\|<sub>1</sub> error
+* \|\|X-Y\|\|<sub><sub>1</sub></sub> error
 
 ### Modules Used
 None
