@@ -32,6 +32,6 @@ print 'one norm: ', one_norm_vector(vector)
 #### Output
 
 ```
-one norm:  13
+one norm:  10
 ```
 
