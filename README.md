@@ -1,13 +1,14 @@
 ## MATH 4610 Page
 ### Skyler Wiser
 
-This webpage contains the functions written for the MATH 4610 class. They are seperated by which homework they were assigned to. A full list of functions can be found here(link pending).a
+This webpage contains the functions written for the MATH 4610 class. They are seperated by which homework they were assigned to. A full list of functions can be found here(link pending).b
 
 #### Homework 1
 #### Homework 2
 #### Homework 3
 #### Homework 4
 #### Homework 5
+
 | # | Function Name | Description |
 | --- | --- | --- |
 | 1 | [one_norm_vector()](https://swiser.github.io/MATH4610/one_norm_vector) | Computes the 1-Norm of a vector |
