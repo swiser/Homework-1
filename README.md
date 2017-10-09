@@ -15,14 +15,16 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 3|[inf_norm_vector()](https://swiser.github.io/MATH4610/inf_norm_vector)|Computes the ∞-Norm of a vector
 4|[one_norm_matrix()](https://swiser.github.io/MATH4610/one_norm_matrix)|Computes the 1-Norm of a matrix
 5|[inf_norm_matrix()](https://swiser.github.io/MATH4610/inf_norm_matrix)|Computes the ∞-Norm of a matrix
+6|[vector_error_one()](https://swiser.github.io/MATH4610/vector_error_one)|Computes the vector error \|\|x-y\|\|<sub>1</sub>
+7|[vector_error_two()](https://swiser.github.io/MATH4610/vector_error_two)|Computes the vector error \|\|x-y\|\|<sub>2</sub>
+8|[vector_error_inf()](https://swiser.github.io/MATH4610/vector_error_inf)|Computes the vector error \|\|x-y\|\|<sub>∞</sub>
 
-6|[vector_error_one()](https://swiser.github.io/MATH4610/vector_error_one)|Computes the vector error 
-7|[vector_error_one()](https://swiser.github.io/MATH4610/vector_error_two)|Computes the vector error 
-8|[vector_error_one()](https://swiser.github.io/MATH4610/vector_error_inf)|Computes the vector error \|\|x-y\|\|
 
 
-\|\|x-y\|\|~2
-\|\|x-y\|\|~∞
+
+
+
+
 
 **Bold** and _Italic_ and `Code` text
 
@@ -31,9 +33,6 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swiser/Homework-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
