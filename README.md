@@ -8,13 +8,13 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 #### Homework 3
 #### Homework 4
 #### Homework 5
-#|Function Name|Description
----|---|---
-1|[one_norm_vector()](https://swiser.github.io/MATH4610/one_norm_vector)|Computes the 1-Norm of a vector
-2|[two_norm_vector()](https://swiser.github.io/MATH4610/two_norm_vector)|Computes the 2-Norm of a vector
-3|[inf_norm_vector()](https://swiser.github.io/MATH4610/inf_norm_vector)|Computes the ∞-Norm of a vector
-4|[one_norm_matrix()](https://swiser.github.io/MATH4610/one_norm_matrix)|Computes the 1-Norm of a matrix
-5|[inf_norm_matrix()](https://swiser.github.io/MATH4610/inf_norm_matrix)|Computes the ∞-Norm of a matrix
+| # | Function Name | Description |
+| --- | --- | --- |
+| 1 | [one_norm_vector()](https://swiser.github.io/MATH4610/one_norm_vector) | Computes the 1-Norm of a vector |
+| 2 | [two_norm_vector()](https://swiser.github.io/MATH4610/two_norm_vector) | Computes the 2-Norm of a vector |
+| 3 | [inf_norm_vector()](https://swiser.github.io/MATH4610/inf_norm_vector) | Computes the ∞-Norm of a vector |
+| 4 | [one_norm_matrix()](https://swiser.github.io/MATH4610/one_norm_matrix) | Computes the 1-Norm of a matrix |
+| 5 | [inf_norm_matrix()](https://swiser.github.io/MATH4610/inf_norm_matrix) | Computes the ∞-Norm of a matrix |
 
 
 
