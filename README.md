@@ -9,7 +9,7 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 #### Homework 4
 #### Homework 5
 
-| # | Function Name | Description |
+| # | Function Name and Link | Description |
 | :--- | :---: | :--- |
 | 1 | [one_norm_vector()](https://swiser.github.io/MATH4610/one_norm_vector) | Computes the 1-Norm of a vector |
 | 2 | [two_norm_vector()](https://swiser.github.io/MATH4610/two_norm_vector) | Computes the 2-Norm of a vector |
