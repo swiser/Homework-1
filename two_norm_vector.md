@@ -32,6 +32,6 @@ print 'two norm: ', two_norm_vector(vector)
 #### Output
 
 ```
-two norm:  6.2449979984
+two norm:  5.47722557505
 ```
 
