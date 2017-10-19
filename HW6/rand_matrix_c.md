@@ -50,5 +50,4 @@ vector<vector<double>> rand_matrix(int rows,int cols){
 
 ```c++
 vector<vector<double> > matrixA=rand_matrix(100,100);
-
 ```
