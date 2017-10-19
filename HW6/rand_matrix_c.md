@@ -7,7 +7,7 @@ Skyler Wiser
 ### Written For
 C++
 ### Description
-Generates a random matrix of double precision numbers. Matrix is std::vector<vector<double>> format.
+Generates a random matrix of double precision numbers. Matrix is std::vector<vector\<double\>> format.
 ### Inputs
 
 * rows: integer number of rows in matrix
