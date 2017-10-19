@@ -26,3 +26,42 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 | 13 | [matrix_vector_product()](https://swiser.github.io/MATH4610/matrix_vector_product) | Multiplies a matrix and a vector together |
 | 14 | [matrix_matrix_product()](https://swiser.github.io/MATH4610/matrix_matrix_product) | Multiplies two matrices together |
 
+#### Homework 6
+
+* Vector-Vector Multiplication
+
+| # | Function Name and Link | Description |
+| :--- | :---: | :--- |
+| 1 | [one_norm_vector()](https://swiser.github.io/MATH4610/HW6/TBD) | TBD |
+| 2 | [two_norm_vector()](https://swiser.github.io/MATH4610/HW6/TBD) | TBD |
+
+* Matrix-Matrix Mutliplication
+
+[Overview:](https://swiser.github.io/MATH4610/HW6/Matrix_matrix_optimization) Contains the explaination of code, and the graph of the results.
+  * _C++ Functions_
+  
+  | # | Function Name and Link | Description |
+  | :--- | :---: | :--- |
+  | 1 | [rand_matrix()](https://swiser.github.io/MATH4610/HW6/rand_matrix_c) | Generates random matrix |
+  | 2 | [matrixCompare()](https://swiser.github.io/MATH4610/HW6/matrix_compare_c) | Compares two matrices to see if they are the same |
+  | 3 | [matrix_multiply()](https://swiser.github.io/MATH4610/HW6/matrix_multiply_c) | Multiplies 2 matrices, vector format |
+  | 4 | [vector_openmp_matrix()](https://swiser.github.io/MATH4610/HW6/vector_openmp_matrix) | Multiplies 2 matrices, openMP with vector read |
+  | 5 | [normal_openmp_matrix()](https://swiser.github.io/MATH4610/HW6/normal_openmp_matrix) | Multiplies 2 matrices, openMP with 2D array read |
+  | 6 | [transposed_openmp_matrix()](https://swiser.github.io/MATH4610/HW6/transposed_openmp_matrix) | Multiplies 2 matrices, openMP with 1D array read |
+
+  * _Python Functions_
+  
+  | # | Function Name and Link | Description |
+  | :--- | :---: | :--- |
+  | 1 | [rand_matrix()](https://swiser.github.io/MATH4610/HW6/rand_matrix_py) | Generates random matrix |
+
+* LU Factorization
+
+| # | Function Name and Link | Description |
+| :--- | :---: | :--- |
+| 1 | [TBD](https://swiser.github.io/MATH4610/HW6/TBD) | TBD |
+
+
+
+
+
