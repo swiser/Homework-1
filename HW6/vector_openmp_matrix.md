@@ -70,7 +70,6 @@ vector<vector<double>> vector_openmp_matrix (const vector<vector<double>> &matri
     
     return answer;
 }
-
 ```
 
 ### Example
@@ -78,5 +77,4 @@ vector<vector<double>> vector_openmp_matrix (const vector<vector<double>> &matri
 
 ```c++
 vector<vector<double> > matrixA=vector_openmp_matrix(matrixA,matrixB,4);
-
 ```
