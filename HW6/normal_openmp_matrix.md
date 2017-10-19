@@ -101,5 +101,4 @@ vector<vector<double>> normal_openmp_matrix (const vector<vector<double>> &matri
 
 ```c++
 vector<vector<double> > matrixA=normal_openmp_matrix(matrixA,matrixB,4);
-
 ```
