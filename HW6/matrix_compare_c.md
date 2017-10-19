@@ -47,5 +47,4 @@ bool matrixCompare(vector<vector<double > > &matrixA, vector<vector<double> > &m
 ```c++
 if(matrixCompare(matrixA,matrixB)){cout <<"Matrices A and B match." <<endl;}
 else{cout <<"Matrices A and B don't match." <<endl;}
-
 ```
