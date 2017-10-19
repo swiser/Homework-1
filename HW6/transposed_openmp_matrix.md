@@ -87,5 +87,4 @@ vector<vector<double>> transposed_openmp_matrix (const vector<vector<double>> &m
 
 ```c++
 vector<vector<double> > matrixA=transposed_openmp_matrix(matrixA,matrixB,4);
-
 ```
