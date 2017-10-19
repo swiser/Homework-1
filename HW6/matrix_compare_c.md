@@ -7,7 +7,7 @@ Skyler Wiser
 ### Written For
 C++
 ### Description
-Compares two matrices of std::vector<vector<double>> format. Returns true if they are the same.
+Compares two matrices of std::vector<vector\<double\>> format. Returns true if they are the same.
 ### Inputs
 
 * matrixA: First matrix to compare
