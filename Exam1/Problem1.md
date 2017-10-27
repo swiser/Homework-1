@@ -145,6 +145,8 @@ f(-7.854)=-1.000
 
 #### 3.23(b)
 
+Note: The book addresses this as the more difficult problem, and asks to state how/why you fixed it. The problem arises from the function being symmetric about 0, with a local minimum at 0. This causes the slope to go to zero on either the endpoint of your probe, or the center of the probe. The solution was to grow the range from [-10,10] to [-10,11], and make sure the results were still in the original range.
+
 ##### Prompt
 
 ```python
