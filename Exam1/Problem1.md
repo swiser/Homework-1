@@ -141,7 +141,7 @@ f( 4.712)=-1.000
 Global minimum is:
 f(-7.854)=-1.000
 ```
-![3.23(a)](https://swiser.github.io/MATH4610/Exam1/3_23_a.png)
+<img src="https://swiser.github.io/MATH4610/Exam1/3_23_a.png" width="400">
 
 #### 3.23(b)
 
@@ -166,4 +166,5 @@ f( 7.725)=-0.128
 Global minimum is:
 f( 0.000)=-1.000
 ```
-![3.23(b)](https://swiser.github.io/MATH4610/Exam1/3_23_b.png)
+
+<img src="https://swiser.github.io/MATH4610/Exam1/3_23_b.png" width="400">
