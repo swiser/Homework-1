@@ -61,7 +61,14 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 | :--- | :---: | :--- |
 | 1 | [TBD](https://swiser.github.io/MATH4610/HW6/TBD) | TBD |
 
+#### Exam 1 (Take home portion)
 
+  | # | Problem Number | Assignment (from text) |
+  | :--- | :---: | :--- |
+  | 1 | [Problem 1](https://swiser.github.io/MATH4610/Exam1/Problem1) | Problems 3.21 and 3.23 |
+  | 2 | [Problem 2](https://swiser.github.io/MATH4610/Exam1/Problem2) | Problems 4.5 and 4.7|
+  | 3 | [Problem 3](https://swiser.github.io/MATH4610/Exam1/Problem3) | Problem 5.2 |
+  | 4 | [Problem 4](https://swiser.github.io/MATH4610/Exam1/Problem4) | Problems 5.17 and 5.18 |
 
 
 
