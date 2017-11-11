@@ -52,7 +52,7 @@ The print statement first prints 'n', which is the number of binary digits or th
 #### Prompt
 
 ```python
-print SinglePrecisionEps()
+SinglePrecisionEps()
 print '32 (Single)',np.spacing(np.float32(1.0))
 #validates using numpy's built in machine precision function
 ```
@@ -61,5 +61,5 @@ print '32 (Single)',np.spacing(np.float32(1.0))
 
 ```
 Test: Binary Digits (Single): 23 Epsilon: 1.19209e-07 False True
-1.19209e-07
+32 1.19209e-07
 ```
