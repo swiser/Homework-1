@@ -21,6 +21,12 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 | 1 | [bisection()](https://swiser.github.io/MATH4610/HW2/bisection) | Computes root of *f(x)* using bisection method |
 
 #### Homework 3
+
+| # | Function Name and Link | Description |
+| :--- | :---: | :--- |
+| 1 | [bisection()](https://swiser.github.io/MATH4610/HW2/bisection) | Computes root of *f(x)* using bisection method |
+| 2 | [fixed_point()](https://swiser.github.io/MATH4610/HW3/fixed_point) | Computes root of *f(x)* using fixed-point method |
+
 #### Homework 4
 #### Homework 5
 
