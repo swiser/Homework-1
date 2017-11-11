@@ -15,6 +15,11 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 | 6 | [Taylor Series Example](https://swiser.github.io/MATH4610/HW1/TaylorSeriesExample) | Computes the derivative of e<sup>x</sup> |
 
 #### Homework 2
+
+| # | Function Name and Link | Description |
+| :--- | :---: | :--- |
+| 1 | [bisection()](https://swiser.github.io/MATH4610/HW2/bisection) | Computes root of *f(x)* using bisection method |
+
 #### Homework 3
 #### Homework 4
 #### Homework 5
@@ -81,4 +86,7 @@ This webpage contains the functions written for the MATH 4610 class. They are se
   | 4 | [Problem 4](https://swiser.github.io/MATH4610/Exam1/Problem4) | Problems 5.17 and 5.18 |
 
 
+### Textbook Used
+
+Ascher, U. M., and Chen Greif. A First Course in Numerical Methods. Society for Industrial and Applied Mathematics, 2011.
 
