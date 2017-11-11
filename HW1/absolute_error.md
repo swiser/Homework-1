@@ -36,7 +36,7 @@ def absolute_error(actual_value,approx_value):
 #### Prompt
 
 ```python
-print absolute_error(2.0,.2):
+print absolute_error(2.0,.2)
 ```
 
 #### Output
