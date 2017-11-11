@@ -4,6 +4,16 @@
 This webpage contains the functions written for the MATH 4610 class. They are seperated by which homework they were assigned to. A full list of functions can be found here(link pending).
 
 #### Homework 1
+
+| # | Function Name and Link | Description |
+| :--- | :---: | :--- |
+| 1 | [SinglePrecisionEps()](https://swiser.github.io/MATH4610/HW1/SinglePrecisionEps) | Computes machine epsilon, single precision |
+| 2 | [DoublePrecisionEps()](https://swiser.github.io/MATH4610/HW1/DoublePrecisionEps) | Computes machine epsilon, double precision |
+| 3 | [absolute_error()](https://swiser.github.io/MATH4610/HW1/absolute_error) | Computes the absolute error between two values |
+| 4 | [relative_error()](https://swiser.github.io/MATH4610/HW1/relative_error) | Computes the relative error between two values |
+| 5 | [Example 1.2](https://swiser.github.io/MATH4610/HW1/example1_2) | Verifies Example 1.2 from the text |
+| 6 | [Taylor Series Example](https://swiser.github.io/MATH4610/HW1/TaylorSeriesExample) | Computes the derivative of e<sup>x</sup> |
+
 #### Homework 2
 #### Homework 3
 #### Homework 4
