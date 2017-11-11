@@ -1,4 +1,4 @@
-# Compute the Taylor Series expansion of e^x at x=1
+# Compute the Taylor Series expansion of e<sup>x</sup> at x=1
 
 ### Last Mod Date
 
@@ -33,7 +33,7 @@ print exampleTaylor(30,5)
 
 ### Code notes
 
-Because the derivative of e^x is e^x, the Taylor Series expansion was greatly simplified by hand before generating this code. The speed of the algorithm was improved by calculated new factorial terms based on the previous loop iteration, instead of trying to calculate the entire factorial each loop iteration.
+Because the derivative of e<sup>x</sup> is e<sup>x</sup>, the Taylor Series expansion was greatly simplified by hand before generating this code. The speed of the algorithm was improved by calculated new factorial terms based on the previous loop iteration, instead of trying to calculate the entire factorial each loop iteration.
 
 #### Output
 
