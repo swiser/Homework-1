@@ -91,6 +91,15 @@ This webpage contains the functions written for the MATH 4610 class. They are se
   | 3 | [Problem 3](https://swiser.github.io/MATH4610/Exam1/Problem3) | Problem 5.2 |
   | 4 | [Problem 4](https://swiser.github.io/MATH4610/Exam1/Problem4) | Problems 5.17 and 5.18 |
 
+#### Homework 7
+
+| # | Function Name and Link | Description |
+| :--- | :---: | :--- |
+| 1 | [jacobi()](https://swiser.github.io/MATH4610/HW7/jacobi) | Computes solution to system of equations using Jacobi's method |
+| 2 | [gauss_seidel()](https://swiser.github.io/MATH4610/HW7/gauss_seidel) | Computes solution to system of equations using the Gauss-Seidel method |
+| 3 | [steepest_ascent()](https://swiser.github.io/MATH4610/HW7/steepest_ascent) | Computes solution to system of equations using the steepest ascent method |
+| 4 | [conjugate_gradient()](https://swiser.github.io/MATH4610/HW7/conjugate_gradient) | Computes solution to system of equations using the conjugate gradient method |
+| 5 | [Iterative Comparison](https://swiser.github.io/MATH4610/HW7/iterative_compare) | Compares the 4 iterative functions |
 
 ### Textbook Used
 
