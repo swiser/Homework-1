@@ -12,10 +12,10 @@ Using the 4 iterative methods written, compare their cost.
 
 Using slightly modified versions of the below functions, approximate cost of floating point operations and also iterations to converge were saved.
 
-* Jacobi
-* Gauss-Seidel
-* Steepest Ascent
-* Conjugate Gradient
+* [Jacobi](https://swiser.github.io/MATH4610/HW7/jacobi)
+* [Gauss-Seidel](https://swiser.github.io/MATH4610/HW7/gauss_seidel)
+* [Steepest Ascent](https://swiser.github.io/MATH4610/HW7/steepest_ascent)
+* [Conjugate Gradient](https://swiser.github.io/MATH4610/HW7/conjugate_gradient)
 
 ### Modules Used
 
@@ -482,6 +482,9 @@ Size 10000 Matrix:
 ```
 ### Results
 
+The number of floating point operations was plotted against the size *n* of the matrix. With the plot being log-log, the slope of each should show that each is close to *O(n<sup>2</sup>)* in complexity, as shown by the black line.
+
+![Flop Comparison](https://swiser.github.io/MATH4610/HW7/iterative_comparison.png)
 
 
 
