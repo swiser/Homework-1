@@ -121,7 +121,7 @@ void print_column(vector<double> column,int stop){
 #### Prompt
 
     
-    vector<vector<double>> A={{5.0,2.0,1.0,1.0},{2.0,6.0,2.0,1.0},{1.0,2.0,7.0,1.0},{1.0,1.0,2.0,8.0}};
+    vector<vector<double>> A={ {5.0,2.0,1.0,1.0},{2.0,6.0,2.0,1.0},{1.0,2.0,7.0,1.0},{1.0,1.0,2.0,8.0} };
     vector<double> B={29.0,31.0,25.0,19.0};
     vector<double> guess(4,0.0);
 
