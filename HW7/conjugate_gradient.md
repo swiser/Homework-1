@@ -137,20 +137,22 @@ double inner_product(vector<double> A, vector<double> B){
 ### Example
 #### Prompt
 
-    vector<vector<double>> A={{5.0,2.0,1.0,1.0},{2.0,6.0,2.0,1.0},{1.0,2.0,7.0,1.0},{1.0,1.0,2.0,8.0}};
-    vector<double> B={29.0,31.0,25.0,19.0};
-    vector<double> guess(4,0.0);
+```c++
+vector<vector<double>> A={ {5.0,2.0,1.0,1.0},{2.0,6.0,2.0,1.0},{1.0,2.0,7.0,1.0},{1.0,1.0,2.0,8.0} };
+vector<double> B={29.0,31.0,25.0,19.0};
+vector<double> guess(4,0.0);
 
-    vector<double> solution=conjugate_gradient(A, B, guess, pow(10,-10),100);
+vector<double> solution=conjugate_gradient(A, B, guess, pow(10,-10),100);
 
-    cout << "Matrix A: " << endl;
-    print_matrix(A);
+cout << "Matrix A: " << endl;
+print_matrix(A);
 
-    cout << "Matrix B: " << endl;
-    print_column(B);
+cout << "Matrix B: " << endl;
+print_column(B);
 
-    cout << "CG Solution: " << endl;
-    print_column(solution);
+cout << "CG Solution: " << endl;
+print_column(solution);
+```
 
 #### Output
 
