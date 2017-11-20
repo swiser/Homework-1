@@ -111,6 +111,13 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 | 4 | [parallel_conjugate_gradient()](https://swiser.github.io/MATH4610/HW8/parallel_conjugate_gradient) | Computes solution to system of equations using the parallelized conjugate gradient method |
 | 5 | [Parallel Comparison](https://swiser.github.io/MATH4610/HW8/parallel_compare) | Compares the 4 iterative functions in parallel vs not in parallel |
 
+#### Homework 8
+
+| # | Function Name and Link | Description |
+| :--- | :---: | :--- |
+| 1 | [power_method()](https://swiser.github.io/MATH4610/HW9/power_method) | Computes the largest eigenvalue of a matrix using power iteration |
+| 2 | [inverse_power_method()](https://swiser.github.io/MATH4610/HW9/inverse_power_method) | Computes the smallest eigenvalue of a matrix using inverse power iteration |
+
 ### Textbook Used
 
 Ascher, U. M., and Chen Greif. A First Course in Numerical Methods. Society for Industrial and Applied Mathematics, 2011.
