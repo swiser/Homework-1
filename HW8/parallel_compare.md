@@ -236,7 +236,7 @@ Size 10000 Matrix:
 
 The number of floating point operations was plotted against the size *n* of the matrix. With the plot being log-log, the slope of each should show that each is close to *O(n<sup>2</sup>)* in complexity, as shown by the black line.
 
-![Flop Comparison](https://swiser.github.io/MATH4610/HW8/parallelcomparison.png)
+![Parallel Comparison](https://swiser.github.io/MATH4610/HW8/ParallelComparison.png)
 
 
 
