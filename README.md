@@ -111,7 +111,7 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 | 4 | [parallel_conjugate_gradient()](https://swiser.github.io/MATH4610/HW8/parallel_conjugate_gradient) | Computes solution to system of equations using the parallelized conjugate gradient method |
 | 5 | [Parallel Comparison](https://swiser.github.io/MATH4610/HW8/parallel_compare) | Compares the 4 iterative functions in parallel vs not in parallel |
 
-#### Homework 8
+#### Homework 9
 
 | # | Function Name and Link | Description |
 | :--- | :---: | :--- |
