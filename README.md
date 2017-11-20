@@ -101,6 +101,16 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 | 4 | [conjugate_gradient()](https://swiser.github.io/MATH4610/HW7/conjugate_gradient) | Computes solution to system of equations using the conjugate gradient method |
 | 5 | [Iterative Comparison](https://swiser.github.io/MATH4610/HW7/iterative_compare) | Compares the 4 iterative functions |
 
+#### Homework 8
+
+| # | Function Name and Link | Description |
+| :--- | :---: | :--- |
+| 1 | [parallel_jacobi()](https://swiser.github.io/MATH4610/HW8/parallel_jacobi) | Computes solution to system of equations using parallelized Jacobi's method |
+| 2 | [parallel_gauss_seidel()](https://swiser.github.io/MATH4610/HW8/parallel_gauss_seidel) | Computes solution to system of equations using the parallelized Gauss-Seidel method |
+| 3 | [parallel_steepest_ascent()](https://swiser.github.io/MATH4610/HW8/parallel_steepest_ascent) | Computes solution to system of equations using the parallelized steepest ascent method |
+| 4 | [parallel_conjugate_gradient()](https://swiser.github.io/MATH4610/HW8/parallel_conjugate_gradient) | Computes solution to system of equations using the parallelized conjugate gradient method |
+| 5 | [Parallel Comparison](https://swiser.github.io/MATH4610/HW8/parallel_compare) | Compares the 4 iterative functions in parallel vs not in parallel |
+
 ### Textbook Used
 
 Ascher, U. M., and Chen Greif. A First Course in Numerical Methods. Society for Industrial and Applied Mathematics, 2011.
