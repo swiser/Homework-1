@@ -118,6 +118,14 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 | 1 | [power_method()](https://swiser.github.io/MATH4610/HW9/power_method) | Computes the largest eigenvalue of a matrix using power iteration |
 | 2 | [inverse_power_method()](https://swiser.github.io/MATH4610/HW9/inverse_power_method) | Computes the smallest eigenvalue of a matrix using inverse power iteration |
 
+#### Homework 10
+
+| # | Function Name and Link | Description |
+| :--- | :---: | :--- |
+| 1 | [difference_coefficients()](https://swiser.github.io/MATH4610/HW10/difference_coefficients) | Computes the coefficients in a divided difference table |
+| 2 | [generate_from_coeff()](https://swiser.github.io/MATH4610/HW10/generate_from_coeff) | Interpolates f(x) values using the Newton form of the interpolating polynomial  |
+| 3 | [Runge Phenomenon](https://swiser.github.io/MATH4610/HW10/runge_phenomenon) | Shows the problems with interpolating a Runge function |
+
 ### Textbook Used
 
 Ascher, U. M., and Chen Greif. A First Course in Numerical Methods. Society for Industrial and Applied Mathematics, 2011.
