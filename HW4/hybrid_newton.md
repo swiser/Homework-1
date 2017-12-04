@@ -13,8 +13,8 @@ Hybrid method that uses both bisection method and Newton-Raphson method to find 
 * x_0: First guess near root
 * a: Left bound of bisection step
 * b: Right bound of bisection step
-* tolerance: Largest variation from 
-* function: Function, 
+* tolerance: Largest variation from f(x)=0
+* function: Function, f(x)=0
 * derivative: Derivative of given function
 * max_iters: Maximum iterations before exiting function
 
