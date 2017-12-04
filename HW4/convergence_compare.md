@@ -1,4 +1,4 @@
-# Project: Compare Matrix-Matrix Multiplication
+# Project: Convergence Comparison of Root Finding Algorithms
 
 ### Last Mod Date
 October 2, 2017
