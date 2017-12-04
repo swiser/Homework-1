@@ -28,6 +28,17 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 | 2 | [fixed_point()](https://swiser.github.io/MATH4610/HW3/fixed_point) | Computes root of *f(x)* using fixed-point method |
 
 #### Homework 4
+
+| # | Function Name and Link | Description |
+| :--- | :---: | :--- |
+| 1 | [quick_newton_method()](https://swiser.github.io/MATH4610//HW4/quick_newton_method) | Quick version of Newton-Raphson Method|
+| 2 | [newton_method()](https://swiser.github.io/MATH4610/HW4/newton_method) | Newton-Raphson method of root finding |
+| 3 | [secant_method()](https://swiser.github.io/MATH4610/HW4/secant_method) | Secant method of root finding |
+| 4 | [Convergence Comparison](https://swiser.github.io/MATH4610/HW4/convergence_compare) | Compares the convergence of different methods|
+| 5 | [Step Functions](https://swiser.github.io/MATH4610/HW4/step_functions) | Helper functions for hybrid methods |
+| 6 | [hybrid_newton()](https://swiser.github.io/MATH4610/HW4/hybrid_newton) | Bisection/Newton hybrid of root finding |
+| 7 | [hybrid_secant()](https://swiser.github.io/MATH4610/HW4/hybrid_secant) | Bisection/secant hybrid of root finding |
+
 #### Homework 5
 
 | # | Function Name and Link | Description |
