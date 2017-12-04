@@ -56,7 +56,8 @@
 
 | # | Function Name and Link | Description |
 | :--- | :---: | :--- |
-| 1 | [rand_matrix()](https://swiser.github.io/MATH4610/HW6/rand_matrix_c) | Generates random matrix |
+| 1 | [LU_factorization()](https://swiser.github.io/MATH4610/HW6/LU_factorization) | LU-Factorizes a matrix |
+| 2 | [LU_solve()](https://swiser.github.io/MATH4610/HW6/LU_solve) | Solves a Ax=b for x using an LU-Factorized matrix A |
 
 ### Iterative Matrix Solving Methods
 | # | Function Name and Link | Description |
