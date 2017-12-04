@@ -81,18 +81,6 @@ This webpage contains the functions written for the MATH 4610 class. They are se
   | 5 | [normal_openmp_matrix()](https://swiser.github.io/MATH4610/HW6/normal_openmp_matrix) | Multiplies 2 matrices, openMP with 2D array read |
   | 6 | [transposed_openmp_matrix()](https://swiser.github.io/MATH4610/HW6/transposed_openmp_matrix) | Multiplies 2 matrices, openMP with 1D array read |
 
-  * _Python Functions_
-  
-  | # | Function Name and Link | Description |
-  | :--- | :---: | :--- |
-  | 1 | [rand_matrix()](https://swiser.github.io/MATH4610/HW6/rand_matrix_py) | Generates random matrix |
-
-##### LU Factorization
-
-| # | Function Name and Link | Description |
-| :--- | :---: | :--- |
-| 1 | [TBD](https://swiser.github.io/MATH4610/HW6/TBD) | TBD |
-
 #### Exam 1 (Take home portion)
 
   | # | Problem Number | Assignment (from text) |
