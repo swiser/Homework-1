@@ -1,4 +1,4 @@
-# Function Name: LU_factorization
+# Function Name: LU_factorization()
 
 ### Last Mod Date
 October 24, 2017
