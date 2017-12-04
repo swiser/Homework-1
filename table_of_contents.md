@@ -1,5 +1,7 @@
 ## Function Table of Contents
 
+test
+
 ### Discretization
 
 | # | Function Name and Link | Description |
