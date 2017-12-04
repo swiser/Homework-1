@@ -60,13 +60,6 @@ This webpage contains the functions written for the MATH 4610 class. They are se
 
 #### Homework 6
 
-##### Vector-Vector Multiplication
-
-| # | Function Name and Link | Description |
-| :--- | :---: | :--- |
-| 1 | [one_norm_vector()](https://swiser.github.io/MATH4610/HW6/TBD) | TBD |
-| 2 | [two_norm_vector()](https://swiser.github.io/MATH4610/HW6/TBD) | TBD |
-
 ##### Matrix-Matrix Multiplication
 
 [Overview:](https://swiser.github.io/MATH4610/HW6/Matrix_matrix_optimization) Contains the explaination of code, and the graph of the results.
