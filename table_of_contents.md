@@ -43,6 +43,7 @@
 | 14 | [matrix_matrix_product()](https://swiser.github.io/MATH4610/matrix_matrix_product) | Multiplies two matrices together |
 
 #### C++
+
 | # | Function Name and Link | Description |
 | :--- | :---: | :--- |
 | 1 | [rand_matrix()](https://swiser.github.io/MATH4610/HW6/rand_matrix_c) | Generates random matrix |
@@ -60,6 +61,7 @@
 | 2 | [LU_solve()](https://swiser.github.io/MATH4610/HW6/LU_solve) | Solves a Ax=b for x using an LU-Factorized matrix A |
 
 ### Iterative Matrix Solving Methods
+
 | # | Function Name and Link | Description |
 | :--- | :---: | :--- |
 | 1 | [jacobi()](https://swiser.github.io/MATH4610/HW7/jacobi) | Computes solution to system of equations using Jacobi's method |
