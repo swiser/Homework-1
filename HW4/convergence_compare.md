@@ -131,8 +131,8 @@ plt.show()
 
 ```python
 Prompt one:
-function=lambda x: 3*x*math.cos(10*x)
-derivative=lambda x: (3*math.cos(10*x)-30*x*math.sin(10*x))
+function=lambda x: 3*x*math.cos(10*x)
+derivative=lambda x: (3*math.cos(10*x)-30*x*math.sin(10*x))
 guess=.16
 a=.1
 b=.3
@@ -140,14 +140,13 @@ x_star=math.pi/20
 equation='y=3*x*cos(10*x)'
 
 Prompt two:
-function=lambda x: x**3-x+1
-derivative=lambda x: 3*x**2-1
+function=lambda x: x**3-x+1
+derivative=lambda x: 3*x**2-1
 guess=-8
 a=-4
 b=4
 x_star=-1.3247179572447
 equation='y=x^3-x+1'
-
 ```
 
 ### Graphs
