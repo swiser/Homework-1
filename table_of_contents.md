@@ -1,7 +1,5 @@
 ## Function Table of Contents
 
-test
-
 ### Discretization
 
 | # | Function Name and Link | Description |
@@ -112,6 +110,7 @@ test
   | 4 | [Problem 4](https://swiser.github.io/MATH4610/Exam1/Problem4) | Problems 5.17 and 5.18 |
 
 #### Other
+
 | # | Problem Number | Description |
 | :--- | :---: | :--- |
 | 1 | [Example 1.2](https://swiser.github.io/MATH4610/HW1/example1_2) | Verifies Example 1.2 from the text |
