@@ -73,6 +73,13 @@ This webpage contains the functions written for the MATH 4610 class. They are se
   | 4 | [vector_openmp_matrix()](https://swiser.github.io/MATH4610/HW6/vector_openmp_matrix) | Multiplies 2 matrices, openMP with vector read |
   | 5 | [normal_openmp_matrix()](https://swiser.github.io/MATH4610/HW6/normal_openmp_matrix) | Multiplies 2 matrices, openMP with 2D array read |
   | 6 | [transposed_openmp_matrix()](https://swiser.github.io/MATH4610/HW6/transposed_openmp_matrix) | Multiplies 2 matrices, openMP with 1D array read |
+  
+##### LU-Factorization
+
+| # | Function Name and Link | Description |
+| :--- | :---: | :--- |
+| 1 | [LU_factorization()](https://swiser.github.io/MATH4610/HW6/LU_factorization) | LU-Factorizes a matrix |
+| 2 | [LU_solve()](https://swiser.github.io/MATH4610/HW6/LU_solve) | Solves a Ax=b for x using an LU-Factorized matrix A |
 
 #### Exam 1 (Take home portion)
 
