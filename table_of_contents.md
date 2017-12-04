@@ -93,7 +93,7 @@
 | :--- | :---: | :--- |
 | 1 | [Taylor Series Example](https://swiser.github.io/MATH4610/HW1/TaylorSeriesExample) | Computes the derivative of e<sup>x</sup> |
 | 2 | [Convergence Comparison](https://swiser.github.io/MATH4610/HW4/convergence_compare) | Compares the convergence of different methods|
-| 3 | [Overview:](https://swiser.github.io/MATH4610/HW6/Matrix_matrix_optimization) | Contains the explaination of code, and the graph of the results.|
+| 3 | [Overview](https://swiser.github.io/MATH4610/HW6/Matrix_matrix_optimization) | Contains the explaination of code, and the graph of the results.|
 | 4 | [Iterative Comparison](https://swiser.github.io/MATH4610/HW7/iterative_compare) | Compares the 4 iterative functions |
 | 5 | [Parallel Comparison](https://swiser.github.io/MATH4610/HW8/parallel_compare) | Compares the 4 iterative functions in parallel vs not in parallel |
 | 6 | [Runge Phenomenon](https://swiser.github.io/MATH4610/HW10/runge_phenomenon) | Shows the problems with interpolating a Runge function |
